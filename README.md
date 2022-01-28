@@ -1,5 +1,5 @@
 # projekti
-Just random things.
+
 1. Igrica koja ima za cilj da ponovite redosled  koja vam program zada nakon 2.25s.
 2. Za otvaranje projekta potreban vam je IntelliJ, zatim potrebno je da idete u File-> Project Structure -> Libraries dodati 
 sa linka : https://www.oracle.com/java/technologies/java-archive-javafx-downloads.html (prvo preuzeti pa dodati u biblioteku libraries).
